@@ -1,5 +1,6 @@
 site_name: Cinnak's Blog
 site_description: Personal Tech Blog
+site_url: https://cinnak.github.io/cinnakblog/
 theme:
   name: material
   language: en
@@ -30,7 +31,7 @@ nav:
      - blog/index.md
 
 repo_name: cinnak/cinnakblog
-repo_url: https://cinnak.github.io/cinnakblog/
+repo_url: https://github.com/cinnak/cinnakblog
 
 markdown_extensions:
   - pymdownx.highlight:

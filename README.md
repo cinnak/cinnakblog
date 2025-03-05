@@ -1,2 +1,2 @@
-# cinnakblog
- personal blog
+# Cinnak's Blog
+

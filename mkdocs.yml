@@ -30,7 +30,7 @@ nav:
      - blog/index.md
 
 repo_name: cinnak/cinnakblog
-repo_url: cinnak.github.io/cinnakblog/
+repo_url: https://cinnak.github.io/cinnakblog/
 
 markdown_extensions:
   - pymdownx.highlight:

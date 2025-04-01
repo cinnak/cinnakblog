@@ -40,19 +40,19 @@ Chip breaks down optimization goals into several categories:
 
 Understanding your priorities among these factors will guide your job search and career decisions.
 
-# Interview Preparation Strategies
+## Interview Preparation Strategies
 
 What companies look for in candidates can be divided into two parts: technical skills and non-technical skills.
 
-## Technical Skills
+### Technical Skills
 
 Beyond basic software engineering and data processing abilities, you should understand ML at a deeper level—beyond just buzzwords. Ideally, you should be able to explain every architectural decision you make.
 
-## Non-Technical Skills
+### Non-Technical Skills
 
 Non-technical skills are crucial yet often overlooked by engineers who assume that technical competence alone will speak for itself. In the context of ML, analytical thinking, communication skills, experience, and leadership are equally important. I strongly agree with Chip’s statement: "_There are complacent engineers who’ve worked for decades with less experience than an inquisitive college student._" This reminds me that expertise doesn’t just flow like water from a tap—it requires intentional effort and hands-on practice.
 
-# Networking and Visibility
+## Networking and Visibility
 
 As an INTJ who is 90% introverted, I rarely network with people. However, I've realized that this can be a significant career disadvantage. Many companies prefer sourcing candidates through referrals. Online application acceptance rates vary between companies; for instance, Meta, Microsoft, and Oracle are less likely to pass online applicants, while Twitter, Amazon, and Airbnb are more open. The best networking contacts are those you’ve studied or worked with.
 

@@ -52,3 +52,8 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
+
+# Other
+docs/blog/posts/Templates/
+docs/blog/drafts/
+docs/blog/.obsidian/

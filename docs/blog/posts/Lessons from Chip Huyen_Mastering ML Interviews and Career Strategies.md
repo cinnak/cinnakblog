@@ -1,15 +1,13 @@
 ---
 date: 2025-04-01
-title: What I learned from Chip Huyen's Machine Learning Interviews Book
+title: Lessons from Chip Huyen_Mastering ML Interviews and Career Strategies
 draft: false
 description: What I learned from Chip Huyen's Machine Learning Interviews Book
 categories:
   - Reading
-  - Tech
   - Career
 tags:
   - Reading
-  - Tech
   - Career
 ---
 I've read Chip Huyen's [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/), but not the whole thing since I skipped most of the Part II questions. The book includes so many sincere tips, fabulous learning resource recommendations, and so much real-life experience from Chip herself, her friends, and the people she interviewed.

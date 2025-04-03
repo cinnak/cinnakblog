@@ -76,6 +76,7 @@ While principles provide the map, _Ultralearning_ offers the high-performance ve
 - **My Application (Reading):** My **Reading** strategy involves some experimentation: I first check question types to decide my approach (e.g., reading paragraph by paragraph for Heading Matching). I identify keywords to hold in short-term memory. However, I'm currently struggling with slow reading speed and rereading – this signals a need to experiment with _new_ strategies or drills specifically targeting speed and comprehension efficiency. Acknowledging this struggle is part of the process.
 ## The Synergy: How My Strategies Deepen My Understanding of Principles
 This journey isn't just about applying principles to strategies. Crucially, **engaging with these strategies deepens my real-world understanding of the principles.**
+
 - When I struggle with **Directness** in Reading – finding my speed slow despite knowing vocabulary – I _feel_ the gap between passive knowledge and active skill application. The principle of 'specificity' becomes tangible.
 - When **Retrieval** practice with Anki helps me recall a word effortlessly later, I _experience_ the power of desirable difficulty more profoundly than just reading about it.
 - Analyzing my **Listening** errors (**Feedback**) forces me to confront my specific comprehension weaknesses, making the abstract need for 'quality feedback' intensely practical.
@@ -86,7 +87,6 @@ Scott Young's books offer a powerful lens for viewing my learning. Understanding
 
 Masterful learning seems to lie in skillfully operating these twin engines – knowing _what_ works (strategies) grounded in _why_ it works (principles), creating a cycle of continuous improvement.
 As I move forward with my IELTS preparation, my aim is to keep consciously integrating these two aspects:
-
 - **Choosing Methods:** When selecting a technique (like a new reading strategy or app), I'll ask: Which principles does it leverage? Is it direct enough? How will I get feedback?
   
 - **Practicing Strategies:** While using a strategy (like shadowing), I'll observe: How is this affecting my fluency? Is it addressing a specific weakness I identified?

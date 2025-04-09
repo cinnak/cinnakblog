@@ -11,6 +11,20 @@ theme:
     - navigation.expand
     - search.suggest
     - search.highlight
+    - comments 
+extra:
+ comments:
+    provider: giscus
+    repo: cinnak/cinnakblog
+    repo_id: R_kgDOODT1GA
+    category: Announcements
+    category_id: DIC_kwDOODT1GM4Co7OO
+    mapping: pathname
+    reactions_enabled: '1'
+    emit_metadata: '0'     
+    input_position: bottom 
+    theme: preferred_color_scheme 
+    lang: en                 
   palette:
     - scheme: default
       primary: indigo

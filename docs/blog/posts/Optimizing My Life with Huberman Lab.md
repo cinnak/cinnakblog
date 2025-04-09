@@ -9,6 +9,7 @@ tags:
   - Life
 ---
 **TL;DR: Key Huberman Protocols & My Results**
+
 - **Strength Training (3-4x/week):** Foundational for energy & capability (Deadlift hit **1.3x BW**).
 - **Creatine Monohydrate (Daily):** Increased mental endurance, daily energy, **explosive power** (per coach).
 - **NSDR (10-20 min as needed):** Fights fatigue/grogginess, boosts alertness for demanding tasks.

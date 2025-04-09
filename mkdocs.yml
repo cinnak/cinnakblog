@@ -1,5 +1,5 @@
 site_name: Cinnak's Blog
-site_description: Personal Tech Blog
+site_description: Writing and sharing🍻
 site_url: https://cinnak.github.io/cinnakblog/
 theme:
   name: material
@@ -25,19 +25,19 @@ extra:
     input_position: bottom 
     theme: preferred_color_scheme 
     lang: en                 
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+palette:
+- scheme: default
+  primary: indigo
+  accent: indigo
+  toggle:
+    icon: material/brightness-7
+    name: Switch to dark mode
+- scheme: slate
+  primary: indigo
+  accent: indigo
+  toggle:
+    icon: material/brightness-4
+    name: Switch to light mode
 
 nav:
   - Home: index.md

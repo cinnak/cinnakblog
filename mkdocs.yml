@@ -1,19 +1,21 @@
 site_name: Cinnak's Blog
 site_description: Writing and sharing🍻
 site_url: https://cinnak.github.io/cinnakblog/
+
 theme:
   name: material
   language: en
   features:
     - navigation.tabs
     - navigation.top
-    - navigation.indexes
-    - navigation.expand
+    # - navigation.indexes # Removed for potential simplicity, uncomment if needed
+    # - navigation.expand # Removed for potential simplicity, uncomment if needed
     - search.suggest
     - search.highlight
-    - comments 
+    - comments      
+
 extra:
- comments:
+  comments:         
     provider: giscus
     repo: cinnak/cinnakblog
     repo_id: R_kgDOODT1GA
@@ -21,28 +23,29 @@ extra:
     category_id: DIC_kwDOODT1GM4Co7OO
     mapping: pathname
     reactions_enabled: '1'
-    emit_metadata: '0'     
-    input_position: bottom 
-    theme: preferred_color_scheme 
-    lang: en                 
+    emit_metadata: '0'
+    input_position: bottom
+    theme: preferred_color_scheme
+    lang: en
+
 palette:
-- scheme: default
-  primary: indigo
-  accent: indigo
-  toggle:
-    icon: material/brightness-7
-    name: Switch to dark mode
-- scheme: slate
-  primary: indigo
-  accent: indigo
-  toggle:
-    icon: material/brightness-4
-    name: Switch to light mode
+  - scheme: default # Light mode
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate   # Dark mode
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
 
 nav:
   - Home: index.md
   - Blog:
-     - blog/index.md
+    - blog/index.md 
 
 repo_name: cinnak/cinnakblog
 repo_url: https://github.com/cinnak/cinnakblog
@@ -63,7 +66,7 @@ plugins:
   - search
   - blog:
       blog_toc: true
-      archive_date_format: MMMM yyyy
+      archive_date_format: MMMM dd, yyyy # <-- Corrected date format (Example: April 09, 2025)
       post_excerpt: required
   - tags
-  - meta
+  - meta # Often redundant if also in markdown_extensions, but usually harmless

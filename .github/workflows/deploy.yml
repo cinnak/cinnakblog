@@ -24,8 +24,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # Install MkDocs Material and required plugins/extensions
-          pip install mkdocs-material pymdown-extensions mkdocs-tags
+          # Install MkDocs Material and required extensions
+          pip install mkdocs-material pymdown-extensions
 
       - name: Deploy MkDocs site
         run: |

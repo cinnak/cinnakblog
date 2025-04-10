@@ -12,21 +12,6 @@ theme:
     - navigation.expand
     - search.suggest
     - search.highlight
-    - comments
-
-extra:
-  comments:
-    provider: giscus
-    repo: cinnak/cinnakblog
-    repo_id: R_kgDOODT1GA
-    category: Announcements
-    category_id: DIC_kwDOODT1GM4Co7OO
-    mapping: pathname
-    reactions_enabled: '1'
-    emit_metadata: '0'
-    input_position: bottom
-    theme: preferred_color_scheme
-    lang: en
 
 palette:
   - scheme: default
@@ -53,6 +38,20 @@ repo_url: https://github.com/cinnak/cinnakblog
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.magiclink
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - meta
+  - comments:
+      provider: giscus
+      repo: cinnak/cinnakblog
+      repo_id: R_kgDOODT1GA
+      category: Announcements
+      category_id: DIC_kwDOODT1GM4Co7OO
+      mapping: pathname
+      input_position: bottom
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
@@ -65,7 +64,7 @@ markdown_extensions:
 plugins:
   - search
   - blog:
-      blog_toc: true
+      blog_toc: false
       archive_date_format: MMMM Guillaume # 保留了你原始的日期格式
       post_excerpt: required
   - tags

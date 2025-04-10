@@ -66,9 +66,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - blog:
-      # blog_toc: false # Removed this based on your earlier request - comment section usually replaces toc
-      archive_date_format: MMMM Guillaume
+  - material/blog: # Use Material for MkDocs built-in blog plugin
+      archive_date_format: "%B %Y" # Changed format to Month Year
       post_excerpt: required
   - tags
-  # - meta # Removed duplicate meta plugin if not needed

@@ -10,8 +10,6 @@ tags:
   - Reading
 ---
 
-
-<!-- more -->
 # When Smart Books Say Nothing: A Postmortem of *Building AI-Powered Products*
 
 *I read it so you don’t have to. Here’s why most ‘expert guides’ on AI product management fail to deliver real insight—and what that reveals about the state of tech thought leadership.*

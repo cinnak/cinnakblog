@@ -12,7 +12,7 @@ tags:
 
 # When Smart Books Say Nothing: A Postmortem of *Building AI-Powered Products*
 
-*I read it so you don’t have to. Here’s why most ‘expert guides’ on AI product management fail to deliver real insight—and what that reveals about the state of tech thought leadership.*
+I read it so you don’t have to. Here’s why most ‘expert guides’ on AI product management fail to deliver real insight—and what that reveals about the state of tech thought leadership.
 
 <!-- more -->
 
@@ -112,5 +112,3 @@ Because the most important ideas in AI product management today aren't printed�
 That’s where the real book is being authored.
 
 One edge-case at a time.
-
-[^1]: 

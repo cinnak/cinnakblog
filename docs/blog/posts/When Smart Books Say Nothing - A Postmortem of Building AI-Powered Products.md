@@ -27,6 +27,7 @@ Instead, I got the literary equivalent of a keynote slide deck.
 ## 📚 The Illusion of Insight: Content That Sounds Smart But Says Nothing
 
 Like many books in the "AI product management" genre, this one is engineered to feel credible. It checks the right boxes:
+
 - Career archetypes: “AI Builder PM,” “AI Experience PM”
 - Frameworks: RICE, OKRs, lifecycle models
 - Metrics: engagement, precision, recall, AUC
@@ -44,12 +45,14 @@ Here’s the uncomfortable truth:
 > **Books like this aren’t for people who build AI. They’re for people who want to be seen as understanding AI.**
 
 They exist to serve:
+
 - PMs transitioning into tech roles
 - Executives looking for talking points
 - Thought leaders in need of frameworks for slide decks
 
 Because of that, their goals aren’t alignment with technical truth—they’re alignment with audience expectations.  
 Which means:
+
 - More structure, less substance  
 - More buzzwords, less decision theory  
 - More abstractions, less actual tension
@@ -59,6 +62,7 @@ Which means:
 ## 🛠 I Was Hoping For Something Real
 
 I wasn’t expecting backpropagation math or PyTorch code. But I *was* hoping for:
+
 - Case studies where an AI product failed and *why*
 - Reflections on what it takes to productize uncertainty
 - Examples of messy trade-offs between explainability and speed
@@ -75,6 +79,7 @@ This book isn't a one-off failure. It’s a symptom of a broader trend:
 > **We’ve industrialized the production of smart-sounding content without requiring that it contain real insight.**
 
 Think about the incentives:
+
 - "Experts" need a book to validate their brand
 - Publishers need accessible content for the widest market
 - Readers want to feel knowledgeable without experiencing cognitive friction
@@ -88,12 +93,14 @@ Smart-looking templates in place of battle-scarred strategies.
 ## 📚 What’s Worth Reading Instead?
 
 Look for things that:
-- Are written by practitioners, not summarizers
+
+- Written by practitioners, not summarizers
 - Explore failure as well as success
 - Focus on *decisions*, not just outcomes
 - Don’t try to cover everything—just one thing, deeply
 
 In AI PM, the best materials I’ve read weren’t books. They were:
+
 - Design docs from internal product teams
 - Postmortems of failed ML deployments
 - Long-form blog posts dissecting architecture trade-offs

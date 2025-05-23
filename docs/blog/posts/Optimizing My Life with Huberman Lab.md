@@ -7,6 +7,7 @@ categories:
 description: Optimizing My Life with Huberman Lab
 tags:
   - Life
+comments: true
 ---
 **TL;DR: Key Huberman Protocols & My Results**
 

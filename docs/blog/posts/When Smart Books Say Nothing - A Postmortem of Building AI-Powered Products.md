@@ -8,6 +8,7 @@ categories:
 description: A Postmortem of *Building AI-Powered Products
 tags:
   - Reading
+comments: true
 ---
 
 # When Smart Books Say Nothing: A Postmortem of *Building AI-Powered Products*

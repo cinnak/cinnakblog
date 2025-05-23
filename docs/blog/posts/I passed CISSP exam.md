@@ -7,6 +7,7 @@ categories:
 description: My experience and tips for passing the CISSP exam
 tags:
     - CISSP
+comments: true
 ---
 # I Passed the CISSP Exam 
 I passed the CISSP exam on 10th Sept after a year of studying, with just under 110 questions on the exam. I'd love to share my experience, the resources I found valuable, and some tips that might help you on your journey.

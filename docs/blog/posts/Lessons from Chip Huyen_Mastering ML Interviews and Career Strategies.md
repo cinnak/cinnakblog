@@ -9,6 +9,7 @@ categories:
 tags:
   - Reading
   - Career
+comments: true
 ---
 I've read Chip Huyen's [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/), but not the whole thing since I skipped most of the Part II questions. The book includes so many sincere tips, fabulous learning resource recommendations, and so much real-life experience from Chip herself, her friends, and the people she interviewed.
 <!-- more -->

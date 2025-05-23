@@ -4,6 +4,7 @@ site_url: https://cinnak.github.io/cinnakblog/
 
 theme:
   name: material
+  custom_dir: 'overrides'
   language: en
   features:
     - navigation.tabs
@@ -28,19 +29,19 @@ theme:
         name: Switch to light mode
 
 # Add the extra section for Giscus configuration
-extra:
-  comments:
-    provider: giscus
-    repo: cinnak/cinnakblog
-    repo_id: R_kgDOODT1GA
-    category: Announcements
-    category_id: DIC_kwDOODT1GM4Co7OO
-    mapping: pathname
-    reactions_enabled: '1' # Keep as string if required by the theme
-    emit_metadata: '0'  # Keep as string if required by the theme
-    input_position: bottom
-    theme: preferred_color_scheme
-    lang: en
+# extra:
+#   comments:
+#     provider: giscus
+#     repo: cinnak/cinnakblog
+#     repo_id: R_kgDOODT1GA
+#     category: Announcements
+#     category_id: DIC_kwDOODT1GM4Co7OO
+#     mapping: pathname
+#     reactions_enabled: '1' # Keep as string if required by the theme
+#     emit_metadata: '0'  # Keep as string if required by the theme
+#     input_position: bottom
+#     theme: preferred_color_scheme
+#     lang: en
 
 nav:
   - Home: index.md

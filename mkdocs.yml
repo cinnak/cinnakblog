@@ -68,6 +68,6 @@ markdown_extensions:
 plugins:
   - search
   - material/blog: # Use Material for MkDocs built-in blog plugin
-      archive_date_format: "MM YYYY" # Changed format to Month Year
+      archive_date_format: "YYYY" # Changed format to Month Year
       post_excerpt: required
   - tags

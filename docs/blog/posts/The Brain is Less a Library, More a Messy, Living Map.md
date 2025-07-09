@@ -7,6 +7,7 @@ categories:
 description: The Brain is Less a Library, More a Messy, Living Map
 tags:
   - Life
+comments: true
 ---
 I heard a line this morning from a podcast that stuck with me: "Your brain shouldn't be a container for knowledge; it should be a map of experiences."
 

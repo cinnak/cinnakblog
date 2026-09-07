@@ -6,6 +6,10 @@ theme:
   name: material
   custom_dir: 'overrides'
   language: en
+  logo: assets/cinnak-mark.svg
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
   features:
     - navigation.tabs
     - navigation.top
@@ -16,14 +20,14 @@ theme:
     - comments  # Enable the comments feature
   palette:  # Ensure palette is directly under theme
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode

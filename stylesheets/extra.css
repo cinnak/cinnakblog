@@ -1,0 +1,187 @@
+:root {
+  --md-primary-fg-color: #1c1c1b;
+  --md-primary-fg-color--light: #292927;
+  --md-primary-fg-color--dark: #121211;
+  --md-accent-fg-color: #c47a22;
+  --type-body-size: 0.8rem;
+  --type-body-leading: 1.6;
+  --type-heading-1: clamp(2rem, 5vw, 2.8rem);
+  --type-heading-2: 1.35rem;
+  --type-heading-3: 1.05rem;
+  --type-heading-4: 0.9rem;
+  --type-meta-size: 0.65rem;
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f8f5ee;
+  --md-default-fg-color: #292724;
+  --md-default-fg-color--light: rgb(41 39 36 / 68%);
+  --md-default-fg-color--lighter: rgb(41 39 36 / 34%);
+  --md-default-fg-color--lightest: rgb(41 39 36 / 12%);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #161615;
+  --md-default-fg-color: #eae5db;
+  --md-default-fg-color--light: rgb(234 229 219 / 70%);
+  --md-default-fg-color--lighter: rgb(234 229 219 / 36%);
+  --md-default-fg-color--lightest: rgb(234 229 219 / 13%);
+}
+
+.md-logo img {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.md-typeset {
+  font-size: var(--type-body-size);
+  font-kerning: normal;
+  line-height: var(--type-body-leading);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--md-default-fg-color);
+  font-weight: 700;
+}
+
+.md-typeset h1 {
+  margin: 0 0 0.75rem;
+  font-size: var(--type-heading-1);
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+}
+
+.md-typeset h2 {
+  margin: 2.5rem 0 0.75rem;
+  font-size: var(--type-heading-2);
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+}
+
+.md-typeset h3 {
+  margin: 1.75rem 0 0.5rem;
+  font-size: var(--type-heading-3);
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+}
+
+.md-typeset h4 {
+  margin: 1.5rem 0 0.5rem;
+  font-size: var(--type-heading-4);
+  line-height: 1.35;
+}
+
+.md-meta,
+.md-post__meta {
+  font-family: var(--md-code-font-family);
+  font-size: var(--type-meta-size);
+  font-variant-numeric: tabular-nums;
+  line-height: 1.5;
+}
+
+.md-tabs__item--active .md-tabs__link {
+  position: relative;
+}
+
+.md-tabs__item--active .md-tabs__link::after {
+  position: absolute;
+  right: 0;
+  bottom: -0.35rem;
+  left: 0;
+  height: 1px;
+  background-color: var(--md-accent-fg-color);
+  content: "";
+}
+
+.md-typeset a {
+  color: var(--md-default-fg-color);
+  text-decoration-color: var(--md-default-fg-color--lighter);
+  text-decoration-line: underline;
+  text-underline-offset: 0.15em;
+}
+
+.md-typeset a:hover {
+  color: var(--md-accent-fg-color);
+  text-decoration-color: currentcolor;
+}
+
+.md-typeset :is(h1, h2, h3, h4) a {
+  text-decoration: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 3px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.now-page {
+  --now-space-sm: 0.75rem;
+  --now-space-md: 1.5rem;
+  --now-space-lg: 2.5rem;
+  --now-space-xl: 4rem;
+
+  max-width: 34.4rem;
+  margin-inline: auto;
+  padding-block: clamp(1rem, 3vw, 2.5rem) var(--now-space-xl);
+}
+
+.now-page .now-updated {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0 0 var(--now-space-xl);
+  padding-bottom: var(--now-space-md);
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+  font-family: var(--md-code-font-family);
+  font-size: var(--type-meta-size);
+  line-height: 1.5;
+}
+
+.now-page .now-updated::before {
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 50%;
+  background-color: var(--md-accent-fg-color);
+  content: "";
+  flex: 0 0 auto;
+}
+
+.now-page p {
+  max-width: 65ch;
+  margin-block: 0 var(--now-space-md);
+}
+
+.md-footer-meta {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color--light);
+}
+
+@media screen and (max-width: 44.984375em) {
+  .now-page {
+    padding-block: var(--now-space-md) var(--now-space-lg);
+  }
+
+  .now-page .now-updated {
+    margin-bottom: var(--now-space-lg);
+  }
+}

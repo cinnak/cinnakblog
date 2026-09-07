@@ -12,6 +12,10 @@
   --type-meta-size: 0.65rem;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 [data-md-color-scheme="default"] {
   --md-default-bg-color: #f8f5ee;
   --md-default-fg-color: #292724;
@@ -135,7 +139,7 @@
   --now-space-lg: 2.5rem;
   --now-space-xl: 4rem;
 
-  max-width: 42rem;
+  max-width: 34.4rem;
   margin-inline: auto;
   padding-block: clamp(1rem, 3vw, 2.5rem) var(--now-space-xl);
 }

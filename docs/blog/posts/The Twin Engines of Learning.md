@@ -1,11 +1,10 @@
 ---
 date: 2025-04-03
-draft: 
+draft: false
 title: "My Learning Engines: Applying Scott Young's Principles to My IELTS Journey"
 categories:
   - Learning
-  - IELTS
-description: 
+description: How I applied Scott Young's learning principles and ultralearning strategies to a six-month IELTS goal.
 tags:
   - Learning
   - IELTS

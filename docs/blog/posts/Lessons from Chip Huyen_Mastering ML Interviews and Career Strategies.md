@@ -1,11 +1,10 @@
 ---
 date: 2025-04-01
-title: Lessons from Chip Huyen_Mastering ML Interviews and Career Strategies
+title: "Lessons from Chip Huyen: ML Interviews and Career Strategy"
 draft: false
-description: What I learned from Chip Huyen's Machine Learning Interviews Book
+description: Notes on ML engineering roles, interview preparation, career choices, and technical visibility from Chip Huyen's Machine Learning Interviews book.
 categories:
-  - Reading
-  - Career
+  - Learning
 tags:
   - Reading
   - Career
@@ -13,7 +12,6 @@ comments: true
 ---
 I've read Chip Huyen's [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/), but not the whole thing since I skipped most of the Part II questions. The book includes so many sincere tips, fabulous learning resource recommendations, and so much real-life experience from Chip herself, her friends, and the people she interviewed.
 <!-- more -->
-# Key Takeaways from Chip Huyen's Book
 
 ## Understanding the Roles in ML
 

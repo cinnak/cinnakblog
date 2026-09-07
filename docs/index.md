@@ -1,15 +1,21 @@
-# Welcome to Cinnak's Blog
+# Cinnak
 
-Writing and sharing about data science, AI, cybersecurity, and enjoying some craft beers🍻🍻. Join me for some tech talk and beer chats!
+I’m a software engineer who turns foundation models into maintainable software systems: retrieval over proprietary data, agentic workflows, secure tool use, LLM APIs, cloud deployment, CI/CD, observability, evaluation, and business system integration.
 
-## Recent Posts
+This blog is a record of the systems I build, the ideas that survive contact with implementation, and the things I continue to learn along the way. Outside software, I remain interested in training, books, and craft beer.
 
-Check out my latest blog posts in the [Blog](blog/index.md) section.
+## Writing
 
-## About
+### Building
 
-This is a personal tech blog where I share my thoughts, experiences, and knowledge about various technical topics. Feel free to explore and learn something new!
+Engineering foundation-model applications beyond the prototype: architecture, retrieval, agents, evaluation, operations, and integration with real business systems.
 
-## Contact
+### Learning
 
-You can find me on [GitHub](https://github.com/cinnak).
+Notes on books, technical careers, deliberate practice, and older chapters of my work—including cybersecurity and the CISSP.
+
+### Living
+
+Personal experiments and reflections beyond software, with room for craft beer.
+
+Browse the [blog](blog/index.md), or find my work on [GitHub](https://github.com/cinnak).

@@ -3,18 +3,18 @@ date: 2024-09-25
 title: I Passed the CISSP Exam
 draft: false
 categories:
-  - Tech
-description: My experience and tips for passing the CISSP exam
+  - Learning
+description: A retrospective on a year of CISSP study, including the resources, practice exams, and learning methods I used.
 tags:
-    - CISSP
+  - CISSP
+  - Cybersecurity
 comments: true
 ---
-# I Passed the CISSP Exam 
 I passed the CISSP exam on 10th Sept after a year of studying, with just under 110 questions on the exam. I'd love to share my experience, the resources I found valuable, and some tips that might help you on your journey.
 
 I'm simply sharing my experience, not making a recommendation. Everyone has to find their own path forward. ❤️
 <!-- more -->
-# Study Plan and Time Management
+## Study Plan and Time Management
 
 I didn’t stick to a rigid schedule. Most of my study time was in the evenings after work, on weekends, and during holidays.
 My goal was to integrate CISSP prep into my daily routine, even if it was just for a short while. No fancy time management tricks—just steady, incremental progress.
@@ -47,7 +47,7 @@ My goal was to integrate CISSP prep into my daily routine, even if it was just f
 
 - The ISC2 learnZapp provided a robust set of practice questions that were a huge help. I purchased a three-month premium subscription.
 
-# Study Techniques
+## Study Techniques
 
 - Active Recall with ANKI: I used ANKI to capture questions I missed and regularly reviewed them, which significantly boosted my retention.
 
@@ -55,15 +55,15 @@ My goal was to integrate CISSP prep into my daily routine, even if it was just f
 
 - Memory Palace: This technique was invaluable for remembering complex lists and sequences, like Privacy by Design and Security Design Principles.
 
-# Challenges and How I Overcame Them
+## Challenges and How I Overcame Them
 
-## Language Barrier
+### Language Barrier
 As a non-native English speaker, I struggled with the dense language in the OSG v9 at first. Discovering the more readable Destination CISSP: A Concise Guide made a big difference. I also used a translation feature on a Chinese e-book app (微信读书, a reading app developed by WeChat) for quick translations and content checks—this was a massive time-saver and confidence booster.
 
-## Retention Issues
+### Retention Issues
 I found that simply reading wasn’t enough—I kept forgetting details. To combat this, I implemented a spaced repetition schedule using Notion and Google Calendar to systematically review my notes and ANKI cards.
 
-## Mock Exams
+### Mock Exams
 I completed 29 full-length practice exams, which were crucial for assessing my readiness and identifying weak areas.
 The practice exams often included nuances that weren’t fully covered in the study guides, making them an essential learning tool. 
 I’m just sharing my experience, not recommending this approach. Taking 29 practice exams might seem overly cautious, but I wanted to build my confidence with each result, as I needed to be sure I would pass the exam this time.
@@ -87,13 +87,13 @@ How much study time did I spend between practice exams?
 It depends, weekly tests 4 months out, twice weekly 1 month before, once weekly final week, but full-time job made sticking to it challenging.
 what's more important is , after each practice test, thoroughly review all explanations, focusing on incorrect answers and lucky guesses, and take notes on key concepts.
 
-## Keeping Motivated
+### Keeping Motivated
 
 It was a long journey with its ups and downs.
 For me, the key was “over-preparing.” I studied from October 2023 to September 2024, and although I didn’t study every day, I avoided taking breaks longer than two days.
 Engaging with the r/cissp community was also a huge motivator—seeing others’ progress and discovering new resources kept me on track.
 
-# Final Thoughts
+## Final Thoughts
 
 Don’t Stick to Just One Resource: I started with the OSG v9, but found it overwhelming. Exploring other materials and finding what suited me best was crucial.
 

@@ -1,10 +1,10 @@
 ---
 date: 2025-04-09
-draft: 
+draft: false
 title: Optimizing My Life with Huberman Lab
 categories:
-  - Life
-description: Optimizing My Life with Huberman Lab
+  - Living
+description: A personal account of the training, recovery, focus, and emotional-regulation practices I tried after listening to Huberman Lab.
 tags:
   - Life
 comments: true

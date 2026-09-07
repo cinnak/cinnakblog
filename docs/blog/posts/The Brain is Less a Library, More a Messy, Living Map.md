@@ -1,10 +1,10 @@
 ---
 date: 2025-07-09
-draft: 
+draft: false
 title: The Brain is Less a Library, More a Messy, Living Map
 categories:
-  - Life
-description: The Brain is Less a Library, More a Messy, Living Map
+  - Living
+description: A reflection on the difference between accumulating information and building knowledge through experience, failure, and reflection.
 tags:
   - Life
 comments: true
@@ -13,7 +13,7 @@ I heard a line this morning from a podcast that stuck with me: "Your brain shoul
 
 It’s a simple thought, but it cuts deep.
 
-**<!-- more -->**
+<!-- more -->
 
 
 

@@ -1,5 +1,5 @@
 site_name: Cinnak's Blog
-site_description: Writing and sharing🍻
+site_description: Field notes on building maintainable software systems with foundation models
 site_url: https://cinnak.github.io/cinnakblog/
 
 theme:

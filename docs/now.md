@@ -1,6 +1,14 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+<div class="now-page" markdown>
+
 # Now
 
-*Updated September 2026*
+<p class="now-updated">Updated September 2026</p>
 
 ## Work
 
@@ -15,3 +23,5 @@ I’m revisiting this blog after leaving it alone for more than a year. Right no
 ## Away from the screen
 
 Still training. Still reading. Still drinking craft beer.
+
+</div>

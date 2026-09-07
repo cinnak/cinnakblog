@@ -1,0 +1,57 @@
+.now-page {
+  --now-space-sm: 0.75rem;
+  --now-space-md: 1.5rem;
+  --now-space-lg: 2.5rem;
+  --now-space-xl: 4rem;
+
+  max-width: 42rem;
+  margin-inline: auto;
+  padding-block: clamp(1rem, 3vw, 2.5rem) var(--now-space-xl);
+}
+
+.now-page h1 {
+  margin: 0 0 var(--now-space-sm);
+  color: var(--md-default-fg-color);
+  font-size: clamp(2.25rem, 6vw, 3.25rem);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+}
+
+.now-page .now-updated {
+  margin: 0 0 var(--now-space-xl);
+  color: var(--md-default-fg-color--light);
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+.now-page h2 {
+  margin: var(--now-space-lg) 0 var(--now-space-sm);
+  color: var(--md-default-fg-color);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+}
+
+.now-page p {
+  max-width: 65ch;
+  margin-block: 0 var(--now-space-md);
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.md-footer-meta {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color--light);
+}
+
+@media screen and (max-width: 44.984375em) {
+  .now-page {
+    padding-block: var(--now-space-md) var(--now-space-lg);
+  }
+
+  .now-page .now-updated {
+    margin-bottom: var(--now-space-lg);
+  }
+}

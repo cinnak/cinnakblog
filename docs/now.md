@@ -2,11 +2,10 @@
 hide:
   - navigation
   - toc
+  - title
 ---
 
 <div class="now-page" markdown>
-
-# Now
 
 <p class="now-updated">Updated September 2026</p>
 

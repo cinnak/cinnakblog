@@ -1,4 +1,7 @@
-# Cinnak
+---
+hide:
+  - title
+---
 
 I’m a software engineer who turns foundation models into maintainable software systems: retrieval over proprietary data, agentic workflows, secure tool use, LLM APIs, cloud deployment, CI/CD, observability, evaluation, and business system integration.
 

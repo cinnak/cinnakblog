@@ -47,6 +47,7 @@ nav:
   - Home: index.md
   - Blog:
     - blog/index.md
+  - Now: now.md
 
 repo_name: cinnak/cinnakblog
 repo_url: https://github.com/cinnak/cinnakblog

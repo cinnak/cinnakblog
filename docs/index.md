@@ -2,7 +2,7 @@
 
 I’m a software engineer who turns foundation models into maintainable software systems: retrieval over proprietary data, agentic workflows, secure tool use, LLM APIs, cloud deployment, CI/CD, observability, evaluation, and business system integration.
 
-This blog is a record of the systems I build, the ideas that survive contact with implementation, and the things I continue to learn along the way. Outside software, I remain interested in training, books, and craft beer.
+I write about what I build and learn. Sometimes I also write about books, training, and craft beer.
 
 ## Writing
 
